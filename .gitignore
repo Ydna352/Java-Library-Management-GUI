@@ -1,0 +1,28 @@
+# --- BlueJ and Java .gitignore ---
+
+# Ignore Compiled Java files
+*.class
+
+# Ignore BlueJ context files (editor context, test states, window positions)
+*.ctxt
+
+# Ignore temporary/backup files created by text editors or BlueJ
+*~
+*.bak
+*.tmp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# JVM Crash logs
+hs_err_pid*
+replay_pid*
+
+# Note: We DO NOT ignore package.bluej and README.TXT because they are required
+# for BlueJ to recognize and display the project layout/structure correctly.
